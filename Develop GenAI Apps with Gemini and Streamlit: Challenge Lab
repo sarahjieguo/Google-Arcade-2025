@@ -1,0 +1,45 @@
+
+### 💡 Lab Link: [Develop GenAI Apps with Gemini and Streamlit: Challenge Lab - GSP517](https://www.cloudskillsboost.google/focuses/87315?parent=catalog)
+
+### 🚀 Lab Solution [Watch Here](https://youtu.be/UM4WYG3Nsio)
+
+---
+
+### ⚠️ Disclaimer
+- **This script and guide are provided for  the educational purposes to help you understand the lab services and boost your career. Before using the script, please open and review it to familiarize yourself with Google Cloud services. Ensure that you follow 'Qwiklabs' terms of service and YouTube’s community guidelines. The goal is to enhance your learning experience, not to bypass it.**
+
+### ©Credit
+- **DM for credit or removal request (no copyright intended) ©All rights and credits for the original content belong to Google Cloud [Google Cloud Skill Boost website](https://www.cloudskillsboost.google/)** 🙏
+
+---
+### 🚀 Open this link in a new tab and download the file  [Click Here](https://github.com/Techcps/GSP/blob/main/Develop%20GenAI%20Apps%20with%20Gemini%20and%20Streamlit%3A%20Challenge%20Lab/prompt-v1.0.0.ipynb)
+---
+
+### 🚨Copy and run the below commands in Cloud Shell:
+
+```
+curl -LO raw.githubusercontent.com/Techcps/Google-Cloud-Skills-Boost/master/Develop%20GenAI%20Apps%20with%20Gemini%20and%20Streamlit%3A%20Challenge%20Lab/techcps.sh
+sudo chmod +x techcps.sh
+./techcps.sh
+```
+
+- **Click on the link below and Test the app**
+- **Press Ctrl+c for terminate the script.**
+---
+
+```
+curl -LO raw.githubusercontent.com/Techcps/Google-Cloud-Skills-Boost/master/Develop%20GenAI%20Apps%20with%20Gemini%20and%20Streamlit%3A%20Challenge%20Lab/techcps1.sh
+sudo chmod +x techcps1.sh
+./techcps1.sh
+```
+- **Click on the link below and Test the app**
+---
+
+### Congratulations, you're all done with the lab 😄
+
+---
+
+---
+
+### Thanks for watching and stay connected :)
+---
